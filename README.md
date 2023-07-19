@@ -3,7 +3,7 @@
 * This app will proudly display a lump of coal and the statement “I Am Poor”; the perfect app for when you get asked for money on the streets.
 
 ## TR
-* Bu uygulama, bir kömür parçası ve "Ben Fakirim" ifadesini gösterecek; sokakta para istediğinde kullanabileceğiniz mükemmel bir uygulama.
+* Bu uygulama, bir kömür parçası ve "Ben Fakirim" ifadesini gösterecek; sokakta para istediğinde kullanabileceğiniz mükemmel bir uygulama...
 
 # Screens
 | No Tip Screen | Click Tip Button |
